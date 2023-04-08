@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Sup Jabronies
 <!--
 **chri55e/chri55e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
++ 🔭 I’m currently working on graduating
++ 🌱 I’m currently learning Business management economics
++ 👯 I’m looking to collaborate on finding the meaning the life
++ 🤔 I’m looking for help with getting my life together
++ 💬 Ask me about how not to live up to people’s expectations
++ 📫 How to reach me: chmoalva@ucsc.edu
++ 😄 Pronouns: he/him
++ ⚡ Fun fact: Each day I consume enough caffeine to make my heart burst 
